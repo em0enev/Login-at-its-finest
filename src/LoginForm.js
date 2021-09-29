@@ -1,4 +1,4 @@
-import styles from "./LoginForm.module.css"
+import styles from "./components/LoginForm.module.css"
 
 function LoginForm() {
     return (
